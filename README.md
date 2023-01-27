@@ -7,6 +7,7 @@
 - CSS <img src="https://img.icons8.com/color/20/null/css3.png"/>
 - JQuery <img src="https://img.icons8.com/color/20/null/javascript--v1.png"/>
 - Openweather API
+- Unsplash.com API for dynamic background
 
 ## Preview :
 ![preview](https://user-images.githubusercontent.com/89952465/215006808-5d2b92f5-7f1a-4558-8bfd-de7fdb010a51.jpg)
